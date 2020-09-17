@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/JadenMcElvey/JadenMcElvey/master/banner.png "header image")
+![](https://github.com/JadenMcElvey/JadenMcElvey/blob/master/images/banner.png?raw=true "header image")
 
 ### Jaden McElvey | GT Class 2023 :mortar_board: | Atlanta, GA
 I'm a student at the [Georgia Institute of Technology](https://www.gatech.edu/). I study computer science with a focus on when computing models intelligence and when computing meets users. My interests range from data science to user interface design. Currently I'm looking for my next internship for Summer 2021. I can be contacted at jadenmcelvey@gmail.com. My resume is available [here](https://github.com/JadenMcElvey/JadenMcElvey/raw/master/resume/Resume.pdf). 🐝 Go Jackets!
@@ -24,7 +24,7 @@ I'm a student at the [Georgia Institute of Technology](https://www.gatech.edu/).
 ---
 
 <p>
-  <img height="220px" align='left' src="https://raw.githubusercontent.com/JadenMcElvey/JadenMcElvey/master/left1.png">
+  <img height="220px" align='left' src="https://github.com/JadenMcElvey/JadenMcElvey/blob/master/images/left1.png?raw=true">
 </p>
 
 ### Oracle LiveLabs Intern | Summer 2020
@@ -33,7 +33,7 @@ Over this past summer I worked as an intern on Oracle's LiveLabs team. LiveLabs 
 ---
 
 <p>
-  <img height="220px" align='right' src="https://raw.githubusercontent.com/JadenMcElvey/JadenMcElvey/master/right1.png">
+  <img height="220px" align='right' src="https://github.com/JadenMcElvey/JadenMcElvey/blob/master/images/right1.png?raw=true">
 </p>
 
 ### My Studies | Summer 2019 - Present
@@ -43,4 +43,4 @@ Currently I'm in my second year of study at Georgia Tech. My major is computer s
 
 ---
 
-![](https://raw.githubusercontent.com/JadenMcElvey/JadenMcElvey/master/bottom.png "header image")
+![](https://github.com/JadenMcElvey/JadenMcElvey/blob/master/images/bottom.png?raw=true "header image")
