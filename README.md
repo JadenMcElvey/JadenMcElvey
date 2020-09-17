@@ -1,6 +1,6 @@
 ![](https://github.com/JadenMcElvey/JadenMcElvey/blob/master/images/banner.png?raw=true "header image")
 
-### Jaden McElvey | GT Class 2023 :mortar_board: | Atlanta, GA
+### Jaden McElvey | GT Class of 2023 :mortar_board: | Atlanta, GA
 I'm a student at the [Georgia Institute of Technology](https://www.gatech.edu/). I study computer science with a focus on when computing models intelligence and when computing meets users. My interests range from data science to user interface design. Currently I'm looking for my next internship for Summer 2021. I can be contacted at jadenmcelvey@gmail.com. My resume is available [here](https://github.com/JadenMcElvey/JadenMcElvey/raw/master/resume/Resume.pdf). Scroll down to see what I've been up to. 🐝 Go Jackets!
 
 **Technologies I've Used**
