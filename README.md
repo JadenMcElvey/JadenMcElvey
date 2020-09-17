@@ -3,6 +3,7 @@
 ### Jaden McElvey | GT Class 2023 :mortar_board: | Atlanta, GA
 I'm a student at the [Georgia Institute of Technology](https://www.gatech.edu/). I study computer science with a focus on when computing models intelligence and when computing meets users. My interests range from data science to user interface design. Currently I'm looking for my next internship for Summer 2021. Here are some of the technologies I've used over the years.
 
+<p>
 <img alt="git" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -12,6 +13,7 @@ I'm a student at the [Georgia Institute of Technology](https://www.gatech.edu/).
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 - 🌱 I’m currently learning about machine learning and low level programming!
 - 💬 Ask me about being your next intern
