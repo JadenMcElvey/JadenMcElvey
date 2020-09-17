@@ -1,4 +1,4 @@
-![](header.png "header image")
+![](banner.png "header image")
 
 ---
 <p align="center">
